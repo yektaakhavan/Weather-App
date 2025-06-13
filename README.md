@@ -10,4 +10,4 @@ A simple weather forecast app built with HTML, CSS, and JavaScript.
 - Light/Dark mode
 
 ### Demo
-[Live Demo](https://yektaakhavan.github.io/weather-app)
+[Live Demo](https://yektaakhavan.github.io/Weather-App/)
